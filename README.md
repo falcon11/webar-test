@@ -6,8 +6,8 @@ webAR
 - 扫码Marker，等待1-2分钟，由于动画加载时间较长
 
 # Marker
-![](static/marker/2.jpg)
+![](static/marker/2.jpg | width=100)
 
 
 # 效果图
-![](screenshot.png)
+![](screenshot.png | width=100)
